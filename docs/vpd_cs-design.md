@@ -266,7 +266,7 @@ Program indicators are used to automate the aggregation of individual-level case
 * Number of confirmed cases aggregated by disease and type of case confirmation (# confirmed measles cases, confirmed by lab vs epi-link)
 * Number of suspected cases investigated within 48 hours: based on time-between date of case notification and date of case investigation
 
-A complete list of program indicators is included in the metadata reference file for the package, accessed at [dhis2.org/who-package-downloads](https://dhis2.org/who-package-downloads)
+A complete list of program indicators is included in the metadata reference file. 
 
 ### Indicators
 
